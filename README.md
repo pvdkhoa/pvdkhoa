@@ -11,9 +11,10 @@
 
 - 💬 Ask me about **React, Vue , NodeJS**
 
-- 📫 How to reach me **phamvudangkhoa2002@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **phamvudangkhoa2002@gmail.com**
 <p align="left">
 </p>
 
