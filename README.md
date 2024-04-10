@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me <p>phamvudangkhoa2002@gmail.com</p>
+<p>📫My Gmail  phamvudangkhoa2002@gmail.com</p>
 <p align="left">
 </p>
 
