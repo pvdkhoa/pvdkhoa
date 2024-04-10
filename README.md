@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Vu Dang Khoa</h1>
-<h3 align="center">Fall in love with programming</h3>
+<h3 align="center">Stuck with programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvdkhoa&label=Profile%20views&color=0e75b6&style=flat" alt="pvdkhoa" /> </p>
 
@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on [Mr.Pie](https://github.com/nhihuyn/mrpie)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pvdkhoa?tab=repositories](https://github.com/pvdkhoa?tab=repositories)
+- ⚡ All of my projects are available at [https://github.com/pvdkhoa?tab=repositories](https://github.com/pvdkhoa?tab=repositories)
 
 - 💬 Ask me about **React, Vue , NodeJS**
+- 👨‍💻 Major Software Engineer 🌱 Study at: Ho Chi Minh University of Technology and Education
+  
 
 
 
